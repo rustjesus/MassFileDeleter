@@ -102,7 +102,7 @@
             Controls.Add(extensionTextBox);
             Controls.Add(folderTextBox);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Mass File Deleter";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
